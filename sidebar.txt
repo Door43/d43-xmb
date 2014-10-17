@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xmb:home|Door43 (xmb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xmb|d43-xmb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmb/archive/master.zip|d43-xmb.zip]]
+
+**Recent Changes**
+{{changes>ns = xmb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xmb|Ethnologue data]]
+
